@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T11:56:29.278Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 OPR/74.0.3911.107" etag="kzTLxAQxZRiLHL6Gd0j1" version="14.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-17T11:56:55.833Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 OPR/74.0.3911.107" etag="S1Bu5lY1wsM2mX7h6pW6" version="14.3.2" type="github">
   <diagram id="hLvbFPvER6smxe1DaEyC" name="Page-1">
     <mxGraphModel dx="4622" dy="4001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -320,7 +320,7 @@
         <mxCell id="lqc5_xZJ1Iw9UYwcaw_J-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="lqc5_xZJ1Iw9UYwcaw_J-49" target="lqc5_xZJ1Iw9UYwcaw_J-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lqc5_xZJ1Iw9UYwcaw_J-51" value="&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;за...вший нас давно детерминизм&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Говорит, что случайности рассматривают вкупе как&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lqc5_xZJ1Iw9UYwcaw_J-50" vertex="1" connectable="0">
+        <mxCell id="lqc5_xZJ1Iw9UYwcaw_J-51" value="&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;За...вший нас давно детерминизм&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Говорит, что случайности рассматривают вкупе как&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lqc5_xZJ1Iw9UYwcaw_J-50" vertex="1" connectable="0">
           <mxGeometry x="-0.4048" y="3" relative="1" as="geometry">
             <mxPoint x="84.28999999999999" y="3" as="offset" />
           </mxGeometry>

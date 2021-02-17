@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T11:59:58.853Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 OPR/74.0.3911.107" etag="hj1d7FPVFp6MrtnazX74" version="14.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-17T12:11:10.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 OPR/74.0.3911.107" etag="6MmRuWqMhjeao8OCoWuI" version="14.3.2" type="github">
   <diagram id="hLvbFPvER6smxe1DaEyC" name="Page-1">
     <mxGraphModel dx="4127" dy="3529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,36 +30,35 @@
           <mxGeometry x="-1415" y="650" width="250" height="250" as="geometry" />
         </mxCell>
         <mxCell id="1c6ZH7vMenbnLPpmqNAf-12" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Распад слов (Энтропия)&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-335" y="430" width="120" height="120" as="geometry" />
+          <mxGeometry x="-335" y="400" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1c6ZH7vMenbnLPpmqNAf-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="1c6ZH7vMenbnLPpmqNAf-19" target="1c6ZH7vMenbnLPpmqNAf-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="280" y="500" />
-              <mxPoint x="-215" y="500" />
+              <mxPoint x="245" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1c6ZH7vMenbnLPpmqNAf-34" value="&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;programme&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 18px&quot;&gt;Можно буквы записать, но их звуки живут лишь раз&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1c6ZH7vMenbnLPpmqNAf-33" vertex="1" connectable="0">
           <mxGeometry x="-0.1643" y="1" relative="1" as="geometry">
-            <mxPoint x="-108.33" y="-1" as="offset" />
+            <mxPoint x="28.569999999999993" y="139" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lqc5_xZJ1Iw9UYwcaw_J-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1c6ZH7vMenbnLPpmqNAf-19" target="lqc5_xZJ1Iw9UYwcaw_J-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="700" y="930" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="280" y="948" />
+              <mxPoint x="245" y="1088" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lqc5_xZJ1Iw9UYwcaw_J-10" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;Мне снова так хочется на ту сторону (Где ты)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;Моя обратная луна&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lqc5_xZJ1Iw9UYwcaw_J-9" vertex="1" connectable="0">
           <mxGeometry x="0.1047" y="-6" relative="1" as="geometry">
-            <mxPoint x="174" y="-111.64" as="offset" />
+            <mxPoint x="134.57" y="-141.57" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1c6ZH7vMenbnLPpmqNAf-19" value="&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;programme&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 18px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Письмо и безразличие интро&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="155" y="635" width="250" height="70" as="geometry" />
+          <mxGeometry x="120" y="740" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1c6ZH7vMenbnLPpmqNAf-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="lqc5_xZJ1Iw9UYwcaw_J-41" target="1c6ZH7vMenbnLPpmqNAf-12" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -187,8 +186,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="1040" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="720" y="-895" />
-              <mxPoint x="720" y="1032" />
+              <mxPoint x="690" y="-895" />
+              <mxPoint x="690" y="1172" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -217,14 +216,14 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="820" y="890" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="560" y="-600" />
-              <mxPoint x="560" y="990" />
+              <mxPoint x="540" y="-600" />
+              <mxPoint x="540" y="1130" />
             </Array>
             <mxPoint x="784.9999999999782" y="305" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lqc5_xZJ1Iw9UYwcaw_J-5" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Белая Богиня&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-335" y="930" width="120" height="120" as="geometry" />
+          <mxGeometry x="-335" y="1070" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="lqc5_xZJ1Iw9UYwcaw_J-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="lqc5_xZJ1Iw9UYwcaw_J-6" target="1c6ZH7vMenbnLPpmqNAf-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -299,9 +298,8 @@
         <mxCell id="lqc5_xZJ1Iw9UYwcaw_J-52" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Но и по кускам я от и до детерминирован&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="lqc5_xZJ1Iw9UYwcaw_J-47" target="lqc5_xZJ1Iw9UYwcaw_J-49" edge="1">
           <mxGeometry x="0.4118" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1415" y="995" />
-              <mxPoint x="-1480" y="995" />
-              <mxPoint x="-1480" y="100" />
+              <mxPoint x="-1415" y="1120" />
+              <mxPoint x="-1480" y="1120" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -315,7 +313,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lqc5_xZJ1Iw9UYwcaw_J-47" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Реквием по Жанне Д&#39;Арк&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1415" y="955" width="250" height="70" as="geometry" />
+          <mxGeometry x="-1415" y="1090" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="lqc5_xZJ1Iw9UYwcaw_J-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="lqc5_xZJ1Iw9UYwcaw_J-49" target="lqc5_xZJ1Iw9UYwcaw_J-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -364,6 +362,28 @@
         </mxCell>
         <mxCell id="lqc5_xZJ1Iw9UYwcaw_J-78" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Чемпионы пепла&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-855" y="530" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uBlwhXAnEBfQTf6dqCAZ-12" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Мискузи мадам аутро&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1020" y="930" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uBlwhXAnEBfQTf6dqCAZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="uBlwhXAnEBfQTf6dqCAZ-14" target="lqc5_xZJ1Iw9UYwcaw_J-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uBlwhXAnEBfQTf6dqCAZ-16" value="&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Тонут тучи в бездне луж, к ним&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Опадает вся листва, как безделушки&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uBlwhXAnEBfQTf6dqCAZ-15">
+          <mxGeometry x="0.2457" y="2" relative="1" as="geometry">
+            <mxPoint x="2" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uBlwhXAnEBfQTf6dqCAZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="uBlwhXAnEBfQTf6dqCAZ-14" target="uBlwhXAnEBfQTf6dqCAZ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uBlwhXAnEBfQTf6dqCAZ-19" value="&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;В лужу, как в мишень плевком&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Осенний город, лысый, как Мишель Фуко&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uBlwhXAnEBfQTf6dqCAZ-18">
+          <mxGeometry x="0.1855" relative="1" as="geometry">
+            <mxPoint x="37.14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uBlwhXAnEBfQTf6dqCAZ-14" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Осень&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-335" y="910" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
